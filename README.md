@@ -11,3 +11,8 @@ What is an RC Short Course?: An RC Short Course is a training that provides an i
 concept, system, or tool. You can expect to leave a "Short Course" with a solid grasp of the topic.
 
 
+--- 
+
+We aim to make our online resources accessible to everyone. 
+If you encounter any barriers in the materials contained in this repository, please report them through our support request form
+https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form
